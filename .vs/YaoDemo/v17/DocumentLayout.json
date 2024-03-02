@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Develop\\Project\\YaoDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|d:\\develop\\project\\yaodemo\\yaodemo\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|solutionrelative:yaodemo\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|d:\\develop\\project\\yaodemo\\yaodemo\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|solutionrelative:yaodemo\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|d:\\develop\\project\\yaodemo\\yaodemo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|solutionrelative:yaodemo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|d:\\develop\\project\\yaodemo\\yaodemo\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|solutionrelative:yaodemo\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|d:\\develop\\project\\yaodemo\\yaodemo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|solutionrelative:yaodemo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|d:\\develop\\project\\yaodemo\\yaodemo\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|solutionrelative:yaodemo\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|d:\\develop\\project\\yaodemo\\yaodemo\\viewmodels\\navigationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|solutionrelative:yaodemo\\viewmodels\\navigationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|d:\\develop\\project\\yaodemo\\yaodemo\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|solutionrelative:yaodemo\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|d:\\develop\\project\\yaodemo\\yaodemo\\views\\aidrawview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|solutionrelative:yaodemo\\views\\aidrawview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|d:\\develop\\project\\yaodemo\\yaodemo\\models\\listbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|solutionrelative:yaodemo\\models\\listbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|d:\\develop\\project\\yaodemo\\yaodemo\\models\\navigatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|solutionrelative:yaodemo\\models\\navigatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|d:\\develop\\project\\yaodemo\\yaodemo\\yaodemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|solutionrelative:yaodemo\\yaodemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|d:\\develop\\project\\yaodemo\\yaodemo\\viewmodels\\aidrawviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|solutionrelative:yaodemo\\viewmodels\\aidrawviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|d:\\develop\\project\\yaodemo\\yaodemo\\views\\toastview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|solutionrelative:yaodemo\\views\\toastview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|d:\\develop\\project\\yaodemo\\yaodemo\\views\\aidrawview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|solutionrelative:yaodemo\\views\\aidrawview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|d:\\develop\\project\\yaodemo\\yaodemo\\views\\webview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|solutionrelative:yaodemo\\views\\webview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|d:\\develop\\project\\yaodemo\\yaodemo\\views\\webform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|solutionrelative:yaodemo\\views\\webform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|d:\\develop\\project\\yaodemo\\yaodemo\\views\\webform.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BA2F34A7-C137-43D1-8A16-A98230DDAD06}|YaoDemo\\YaoDemo.csproj|solutionrelative:yaodemo\\views\\webform.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "YaoDemo\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "YaoDemo\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-27T08:25:29.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\App.xaml",
+              "RelativeDocumentMoniker": "YaoDemo\\App.xaml",
+              "ToolTip": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\App.xaml",
+              "RelativeToolTip": "YaoDemo\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-27T05:54:33.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "YaoDemo\\Views\\LoginView.xaml",
+              "ToolTip": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Views\\LoginView.xaml",
+              "RelativeToolTip": "YaoDemo\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-27T05:44:28.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Views\\HomeView.xaml",
+              "RelativeDocumentMoniker": "YaoDemo\\Views\\HomeView.xaml",
+              "ToolTip": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Views\\HomeView.xaml",
+              "RelativeToolTip": "YaoDemo\\Views\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-12-07T06:20:47.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\App.xaml.cs",
+              "RelativeDocumentMoniker": "YaoDemo\\App.xaml.cs",
+              "ToolTip": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\App.xaml.cs",
+              "RelativeToolTip": "YaoDemo\\App.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-27T07:05:52.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "YaoDemo\\Views\\MainView.xaml",
+              "ToolTip": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Views\\MainView.xaml",
+              "RelativeToolTip": "YaoDemo\\Views\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-27T07:05:52.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "YaoDemo\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "YaoDemo\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-27T07:05:52.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavigationViewModel.cs",
+              "DocumentMoniker": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\ViewModels\\NavigationViewModel.cs",
+              "RelativeDocumentMoniker": "YaoDemo\\ViewModels\\NavigationViewModel.cs",
+              "ToolTip": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\ViewModels\\NavigationViewModel.cs",
+              "RelativeToolTip": "YaoDemo\\ViewModels\\NavigationViewModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAhwBIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-13T01:57:22.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AiDrawView.xaml",
+              "DocumentMoniker": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Views\\AiDrawView.xaml",
+              "RelativeDocumentMoniker": "YaoDemo\\Views\\AiDrawView.xaml",
+              "ToolTip": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Views\\AiDrawView.xaml",
+              "RelativeToolTip": "YaoDemo\\Views\\AiDrawView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-27T07:05:52.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListBar.cs",
+              "DocumentMoniker": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Models\\ListBar.cs",
+              "RelativeDocumentMoniker": "YaoDemo\\Models\\ListBar.cs",
+              "ToolTip": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Models\\ListBar.cs",
+              "RelativeToolTip": "YaoDemo\\Models\\ListBar.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-27T07:05:52.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NavigateModel.cs",
+              "DocumentMoniker": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Models\\NavigateModel.cs",
+              "RelativeDocumentMoniker": "YaoDemo\\Models\\NavigateModel.cs",
+              "ToolTip": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Models\\NavigateModel.cs",
+              "RelativeToolTip": "YaoDemo\\Models\\NavigateModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-27T07:05:52.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ToastView.xaml",
+              "DocumentMoniker": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Views\\ToastView.xaml",
+              "RelativeDocumentMoniker": "YaoDemo\\Views\\ToastView.xaml",
+              "ToolTip": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Views\\ToastView.xaml",
+              "RelativeToolTip": "YaoDemo\\Views\\ToastView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-27T07:06:10.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AiDrawViewModel.cs",
+              "DocumentMoniker": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\ViewModels\\AiDrawViewModel.cs",
+              "RelativeDocumentMoniker": "YaoDemo\\ViewModels\\AiDrawViewModel.cs",
+              "ToolTip": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\ViewModels\\AiDrawViewModel.cs",
+              "RelativeToolTip": "YaoDemo\\ViewModels\\AiDrawViewModel.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwDkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-27T07:05:52.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "YaoDemo",
+              "DocumentMoniker": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\YaoDemo.csproj",
+              "RelativeDocumentMoniker": "YaoDemo\\YaoDemo.csproj",
+              "ToolTip": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\YaoDemo.csproj",
+              "RelativeToolTip": "YaoDemo\\YaoDemo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-01-16T05:32:45.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebForm.xaml",
+              "DocumentMoniker": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Views\\WebForm.xaml",
+              "RelativeDocumentMoniker": "YaoDemo\\Views\\WebForm.xaml",
+              "ToolTip": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Views\\WebForm.xaml",
+              "RelativeToolTip": "YaoDemo\\Views\\WebForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-27T07:05:52.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebForm.xaml.cs",
+              "DocumentMoniker": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Views\\WebForm.xaml.cs",
+              "RelativeDocumentMoniker": "YaoDemo\\Views\\WebForm.xaml.cs",
+              "ToolTip": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Views\\WebForm.xaml.cs",
+              "RelativeToolTip": "YaoDemo\\Views\\WebForm.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-27T07:05:52.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AiDrawView.xaml.cs",
+              "DocumentMoniker": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Views\\AiDrawView.xaml.cs",
+              "RelativeDocumentMoniker": "YaoDemo\\Views\\AiDrawView.xaml.cs",
+              "ToolTip": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Views\\AiDrawView.xaml.cs",
+              "RelativeToolTip": "YaoDemo\\Views\\AiDrawView.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T02:49:51.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WebView.xaml",
+              "DocumentMoniker": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Views\\WebView.xaml",
+              "RelativeDocumentMoniker": "YaoDemo\\Views\\WebView.xaml",
+              "ToolTip": "D:\\Develop\\Project\\YaoDemo\\YaoDemo\\Views\\WebView.xaml",
+              "RelativeToolTip": "YaoDemo\\Views\\WebView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-27T07:05:51.897Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YaoDemoApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e64c53a271e13185cb23b7ef66ff3f69d150a6c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("YaoDemoApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YaoDemoApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
